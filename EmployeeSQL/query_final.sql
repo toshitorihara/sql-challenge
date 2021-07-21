@@ -52,3 +52,6 @@ SELECT last_name, COUNT(last_name) AS "Frequency count"
 FROM employees
 GROUP BY last_name
 ORDER BY "Frequency count" DESC;
+
+-- Epilogue "Search your ID number"
+SELECT * FROM employees WHERE emp_no = 499942
