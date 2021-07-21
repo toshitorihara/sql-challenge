@@ -1,5 +1,7 @@
+# Text element to ERD
 ERD.txt
 
+# Username and password to Postgres
 config.py
 
 # Byte-compiled / optimized / DLL files
