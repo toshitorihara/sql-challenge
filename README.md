@@ -21,7 +21,7 @@ You have been hired as a new data engineer at Pewlett Hackard. Your first major 
 7. List all employees in the Sales and Development departments, including their employee number, last name, first name, and department name.
 8. In descending order, list the frequency count of employee last names, i.e., how many employees share each last name.
 
-## BONUS
+## BONUS 
 * Import the SQL database into Pandas
 * Create a histogram to visualize the most common salary ranges for employees
 * Create a bar chart of average salary by title
@@ -32,8 +32,9 @@ You have been hired as a new data engineer at Pewlett Hackard. Your first major 
 </p>
 
 ## Submision
-* Create an image file of your ERD. (ERD_final.png)
+* Create an image file of your ERD. (**ERD_final.png**)
 * Create a .sql file of your table schemata. (schema_final.sql)
+* Create a .sql file of your table schemata. [**schema_final.sql**](EmployeeSQL/schema_final.sql)
 * Create a .sql file of your queries. (query_final.sql)
 * (Optional) Create a Jupyter Notebook of the bonus analysis. (employee_final.ipynb)
 * Create and upload a repository with the above files to GitHub and post a link on BootCamp Spot.
