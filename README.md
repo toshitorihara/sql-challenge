@@ -3,7 +3,7 @@ You have been hired as a new data engineer at Pewlett Hackard. Your first major 
 ### Data Modeling
 * Inspect the CSVs and sketch out an ERD of the tables.
 <p align="center">
-<img src="https://github.com/toshitorihara/sql-challenge/blob/main/Images/ERD_final.png" height="75%" width="75%">
+<img src="https://github.com/toshitorihara/sql-challenge/blob/main/images/ERD_final.png" height="75%" width="75%">
 </p>
 
 ### Data Engineering
@@ -21,9 +21,9 @@ You have been hired as a new data engineer at Pewlett Hackard. Your first major 
 8. In descending order, list the frequency count of employee last names, i.e., how many employees share each last name.
 
 ## Submision
-* Create an image file of your ERD.
-* Create a .sql file of your table schemata.
-* Create a .sql file of your queries.
-* (Optional) Create a Jupyter Notebook of the bonus analysis.
+* Create an image file of your ERD. (ERD_final.png)
+* Create a .sql file of your table schemata. (schema_final.sql)
+* Create a .sql file of your queries. (query_final.sql)
+* (Optional) Create a Jupyter Notebook of the bonus analysis. (employee_final.ipynb)
 * Create and upload a repository with the above files to GitHub and post a link on BootCamp Spot.
 * Ensure your repository has regular commits (i.e. 20+ commits) and a thorough README.md file
