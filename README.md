@@ -4,7 +4,7 @@ You have been hired as a new data engineer at Pewlett Hackard. Your first major 
 ## Data Modeling
 * Inspect the CSVs and sketch out an ERD of the tables.
 <p align="center">
-<img src="https://github.com/toshitorihara/sql-challenge/blob/main/EmployeeSQL/ERD_final.png" height="75%" width="75%">
+<img src="https://github.com/toshitorihara/sql-challenge/blob/main/EmployeeSQL/ERD_final.png" height="60%" width="60%">
 </p>
 
 ## Data Engineering
@@ -25,6 +25,11 @@ You have been hired as a new data engineer at Pewlett Hackard. Your first major 
 * Import the SQL database into Pandas
 * Create a histogram to visualize the most common salary ranges for employees
 * Create a bar chart of average salary by title
+
+<p align="center">
+  <img src="https://github.com/toshitorihara/sql-challenge/blob/main/images/salary_range.png" height="55%" width="55%">
+  <img src="https://github.com/toshitorihara/sql-challenge/blob/main/images/average_salary.png" height="42%" width="42%">
+</p>
 
 ## Submision
 * Create an image file of your ERD. (ERD_final.png)
