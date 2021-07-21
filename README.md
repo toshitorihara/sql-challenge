@@ -3,7 +3,7 @@ You have been hired as a new data engineer at Pewlett Hackard. Your first major 
 ### Data Modeling
 * Inspect the CSVs and sketch out an ERD of the tables.
 <p align="center">
-<img src="https://github.com/toshitorihara/sql-challenge/blob/main/EmployeeSQL/ERD_final.png" height="75%" width="75%">
+<img src="https://github.com/toshitorihara/sql-challenge/blob/main/Images/ERD_final.png" height="75%" width="75%">
 </p>
 
 ### Data Engineering
