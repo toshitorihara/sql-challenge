@@ -28,14 +28,13 @@ You have been hired as a new data engineer at Pewlett Hackard. Your first major 
 
 <p align="center">
   <img src="https://github.com/toshitorihara/sql-challenge/blob/main/images/salary_range.png" height="55%" width="55%">
-  <img src="https://github.com/toshitorihara/sql-challenge/blob/main/images/average_salary.png" height="42%" width="42%">
+  <img src="https://github.com/toshitorihara/sql-challenge/blob/main/images/average_salary.png" height="41.3%" width="41.3%">
 </p>
 
 ## Submision
-* Create an image file of your ERD. (**ERD_final.png**)
-* Create a .sql file of your table schemata. (schema_final.sql)
+* Create an image file of your ERD. [**ERD_final.png**](EmployeeSQL/ERD_final.png)
 * Create a .sql file of your table schemata. [**schema_final.sql**](EmployeeSQL/schema_final.sql)
-* Create a .sql file of your queries. (query_final.sql)
-* (Optional) Create a Jupyter Notebook of the bonus analysis. (employee_final.ipynb)
+* Create a .sql file of your queries. [**query_final.sql**](EmployeeSQL/query_final.sql)
+* (Optional) Create a Jupyter Notebook of the bonus analysis. [**employee_final.ipynb**](EmployeeSQL/employee_final.ipynb)
 * Create and upload a repository with the above files to GitHub and post a link on BootCamp Spot.
 * Ensure your repository has regular commits (i.e. 20+ commits) and a thorough README.md file
